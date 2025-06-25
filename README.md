@@ -37,15 +37,10 @@ while(alive) {
     eat();
     sleep();
     code();
-    repeat();
 }
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+never+lies%2C+comments+sometimes+do.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="Programming Quotes" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Arsenal
 
@@ -95,10 +90,7 @@ while(alive) {
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=400&lines=My+Coding+Journey+%F0%9F%93%88" alt="Analytics Header" />
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashvardhanshekhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhanshekhar&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhanshekhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages" />
@@ -111,123 +103,10 @@ while(alive) {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-## 🎯 Current Mission
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1800&pause=800&color=45B7D1&center=true&vCenter=true&width=500&lines=What+I'm+Building+Right+Now+%F0%9F%9A%80" alt="Current Focus" />
-</div>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#ff6b6b', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#ff6b6b', 'lineColor':'#45b7d1', 'secondaryColor':'#4ecdc4', 'tertiaryColor':'#f8d866'}}}%%
-graph TD
-    A[🚀 Full Stack Mastery] --> B[📱 Mobile Revolution]
-    A --> C[🌐 Web Innovation]
-    A --> D[☁️ Cloud Domination]
-    B --> E[React Native Apps]
-    B --> F[Cross-Platform Magic]
-    C --> G[Next.js Wizardry]
-    C --> H[3D Web Experiences]
-    D --> I[Firebase Integration]
-    D --> J[Vercel Deployment]
-    
-    style A fill:#ff6b6b,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style B fill:#4ecdc4,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style C fill:#45b7d1,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style D fill:#f8d866,stroke:#ffffff,stroke-width:2px,color:#000000
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Project Showcase
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=600&color=FF9F43&center=true&vCenter=true&width=450&lines=Featured+Projects+%E2%9C%A8" alt="Projects Header" />
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🚀 E-Commerce Platform
-![Status](https://img.shields.io/badge/Status-🔥%20Live-brightgreen?style=for-the-badge)
-![Tech](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tech](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tech](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-*A full-stack e-commerce solution with real-time inventory, payment integration, and admin dashboard.*
-
-</td>
-<td width="50%">
-
-### 📱 Banking Mobile App
-![Status](https://img.shields.io/badge/Status-⚡%20Development-yellow?style=for-the-badge)
-![Tech](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tech](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-*Secure mobile banking app with biometric authentication and real-time transactions.*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎮 3D Web Experience
-![Status](https://img.shields.io/badge/Status-🎯%20Planning-blue?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tech](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-*Immersive 3D web game with physics engine and multiplayer capabilities.*
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-![Status](https://img.shields.io/badge/Status-✨%20Live-success?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tech](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-*Interactive portfolio with smooth animations and modern design.*
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎨 Skills Radar
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1300&pause=400&color=9B59B6&center=true&vCenter=true&width=400&lines=Skill+Matrix+%F0%9F%A7%A0" alt="Skills Header" />
-</div>
-
-<div align="center">
-
-```
-📱 React Native Development  ████████████████░░░░   95%  
-⚙️ Backend Development      █████████████░░░░░░░   67%  
-🎨 Frontend Development      ████████████░░░░░░░░   75%  
-🎯 UI/UX Design              ███████████░░░░░░░░░   70%  
-🗄️ Database Management      ███████████░░░░░░░░░   80%
-
-```
-
-</div>
-
-
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1400&pause=500&color=E74C3C&center=true&vCenter=true&width=500&lines=Ready+to+Build+Something+Amazing%3F+%F0%9F%A4%9D" alt="Connect Header" />
-</div>
-
-<div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yashvardhan.shekhar.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Chat!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/yashvardhanshekhar">
