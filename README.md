@@ -26,13 +26,10 @@ const yashvardhan = {
     role: "Full Stack Developer 💻",
     location: "India 🇮🇳",
     workingOn: "Something amazing... 🔥",
-    learning: ["Advanced React Patterns", "WebAssembly", "AI/ML"],
-    askMeAbout: ["Web Dev", "Mobile Apps", "3D Graphics"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
+    funFact: "I debug with console.log()",
     motto: "Code is poetry written in logic ✨"
 };
 
-// Life loop
 while(alive) {
     eat();
     sleep();
