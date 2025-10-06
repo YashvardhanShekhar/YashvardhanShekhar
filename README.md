@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```javascript
 const yashvardhan = {
@@ -29,12 +29,6 @@ const yashvardhan = {
     funFact: "I debug with console.log()",
     motto: "Code is poetry written in logic ✨"
 };
-
-while(alive) {
-    eat();
-    sleep();
-    code();
-}
 ```
 
 
@@ -125,18 +119,6 @@ while(alive) {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Daily Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Dynamic Quotes" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=27AE60&center=true&vCenter=true&width=700&lines=Currently+jamming+to%3A+Lo-fi+Hip+Hop+%F0%9F%8E%B5;Fueled+by%3A+Coffee+%26+Code+%E2%98%95;Status%3A+In+the+Zone+%F0%9F%9A%80;Mode%3A+Full+Stack+Beast+%F0%9F%A6%81" alt="Status Updates" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -154,9 +136,5 @@ while(alive) {
 ### 🔥 *"Building digital dreams, one line of code at a time"* 🔥
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+interesting!;🚀+Let's+collaborate+and+build+the+future!;💡+Always+open+to+new+ideas+and+opportunities!" alt="Footer Messages" />
-
----
-
-*Made with ❤️, lots of ☕, and endless curiosity*
 
 </div>
